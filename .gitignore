@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# IDE
+.idea/
+.vscode/
+
+# Build dir
+[Bb]uild/
+CMakeCache.txt
+CMakeFiles/
+Debug/
+Release/
+cmake-build-*/
